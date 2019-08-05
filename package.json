@@ -1,0 +1,17 @@
+{
+  "name": "nsa-zeta-bot",
+  "version": "0.0.1",
+  "description": "CLASSIFIED",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --experimental-modules server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4"
+  },
+  "type": "module",
+  "engines": {
+    "node": "12.x"
+  }
+}
